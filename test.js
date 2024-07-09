@@ -1,1 +1,1 @@
-console.log("Bye there");
+setInterval(() => console.log("Bye there"), 500);
